@@ -1,0 +1,9 @@
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe.config
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\bin\Debug\Lidgren.Network.dll
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csproj.CoreCompileInputs.cache
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csproj.CopyComplete
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
+C:\Users\fedor\source\repos\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
